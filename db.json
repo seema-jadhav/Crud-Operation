@@ -1,0 +1,122 @@
+{
+  "productList": [
+    {
+      "productName": "sonal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 890,
+      "comment": "fhjgjk",
+      "date": "2022-06-08T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "hjgjh",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 7879,
+      "comment": "uyhkjkk",
+      "date": "2022-06-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "vanarse",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 798098,
+      "comment": "ghgjkhjk",
+      "date": "2022-06-09T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "sonal",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "productName": "sona",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "sonal",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "so",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "Shanna@melissa.v",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "sonal",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 13
+    },
+    {
+      "productName": "son",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 14
+    },
+    {
+      "productName": "s",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 15
+    },
+    {
+      "productName": "Shanna@melissa.v",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 7889,
+      "comment": "fjhgg",
+      "date": "2022-06-13T18:30:00.000Z",
+      "id": 16
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
